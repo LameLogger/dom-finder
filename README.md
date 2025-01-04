@@ -23,7 +23,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/LameLogger/domfinder.git  
+   git clone https://github.com/LameLogger/dom-finder.git  
    cd domfinder  
    ```  
 

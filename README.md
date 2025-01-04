@@ -1,6 +1,6 @@
 ---
 
-# 🌐 **SubFinder**  
+# 🌐 **DOMFinder**  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -23,8 +23,8 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/username/subfinder.git  
-   cd subfinder  
+   git clone https://github.com/LameLogger/domfinder.git  
+   cd domfinder  
    ```  
 
 2. Install dependencies:  
@@ -34,7 +34,7 @@
 
 3. Run the tool:  
    ```bash  
-   python subfinder.py -d example.com  
+   python domfinder.py -d example.com  
    ```  
 
 ---

@@ -1,11 +1,11 @@
 ---
 
-# 🌐 **DOMFinder**  
+# 🌐 **DomFinder**  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-🔍 **SubFinder** is a powerful and efficient subdomain discovery tool designed for security researchers and bug bounty hunters. It helps uncover subdomains of a target domain using various techniques like DNS brute-forcing, API integrations, and OSINT.  
+🔍 **DomFinder** is a powerful and efficient subdomain discovery tool designed for security researchers and bug bounty hunters. It helps uncover subdomains of a target domain using various techniques like DNS brute-forcing, API integrations, and OSINT.  
 
 ---
 
